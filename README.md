@@ -1,1 +1,1 @@
-Placeholder for profile
+![Metrics](/github-metrics.svg)
